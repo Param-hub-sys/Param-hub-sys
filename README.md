@@ -92,25 +92,25 @@ I am a **Data Analyst** passionate about transforming raw data into meaningful i
 
 ## 📊 GitHub Stats
 
+<<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Param-hub-sys&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=00C2FF&logo=github" />
+  <img src="https://img.shields.io/github/followers/Param-hub-sys?style=for-the-badge&color=7B2FF7&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Param-hub-sys&query=$.following&label=Following&style=for-the-badge&color=00C2FF&logo=github" />
+</p>
+
+<h3 align="center">💻 Languages & Tools I Use</h3>
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Param-hub-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Param-hub-sys&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Param-hub-sys&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Param-hub-sys&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Param-hub-sys&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
