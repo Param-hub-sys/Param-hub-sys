@@ -18,7 +18,9 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Param-hub-sys&label=Profile%20Views&color=00C2FF&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Param-hub-sys?style=for-the-badge&logo=github&color=7B2FF7" />
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom%20header.svg" width="100%" />
+<a href="https://www.linkedin.com/in/parameswar-chatterjee-556801225/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   </p>
 
 
