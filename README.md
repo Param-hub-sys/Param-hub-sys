@@ -76,6 +76,14 @@ I am a **Data Analyst** passionate about transforming raw data into meaningful i
       Power BI dashboard on sales trends, revenue, and store performance.<br/><br/>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
     </td>
+      <tr>
+    <td colspan="2" valign="top">
+      <h3>📅 <a href="https://github.com/Param-hub-sys/Workforce-Capacity-Planning-Dashboard-Power-BI-">Workforce Capacity Planning Dashboard</a></h3>
+      Power BI dashboard for workforce capacity planning, helping teams match staffing levels to workload and demand.<br/><br/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/WFM-00C2FF?style=flat-square" />
+    </td>
+  </tr>
   </tr>
 </table>
 
