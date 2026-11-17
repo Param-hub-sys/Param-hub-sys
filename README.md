@@ -10,15 +10,15 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/Param-hub-sys">
+  <a href="https://github.com/Param-hub-sys" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-Param--hub--sys-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:chatterjeeparameswar25@gmail.com">
+  <a href="mailto:chatterjeeparameswar25@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Param-hub-sys&label=Profile%20Views&color=00C2FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Param-hub-sys?style=for-the-badge&logo=github&color=7B2FF7" />
-<a href="https://www.linkedin.com/in/parameswar-chatterjee-556801225/">
+  <img src="https://komarev.com/ghpvc/?username=Param-hub-sys&label=Profile%20Views&color=00C2FF&style=for-the-badge" / target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/followers/Param-hub-sys?style=for-the-badge&logo=github&color=7B2FF7" / target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/parameswar-chatterjee-556801225/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   </p>
