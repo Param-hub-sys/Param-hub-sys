@@ -56,7 +56,7 @@ I am a **Data Analyst** passionate about transforming raw data into meaningful i
 
 <table align="center">
 <tr>
-  <td width="50%" valign="top">
+  <td width="100%" valign="top">
     <h3>🤖 <a href="https://github.com/Param-hub-sys/AI-Chatbot">AI ChatBot</a></h3>
     A full-stack AI chatbot built with Flask and the Claude API, featuring streaming replies and SQLite-saved chat history with a sidebar.<br/><br/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
