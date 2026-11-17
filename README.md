@@ -19,7 +19,8 @@
   <img src="https://komarev.com/ghpvc/?username=Param-hub-sys&label=Profile%20Views&color=00C2FF&style=for-the-badge" / target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/github/followers/Param-hub-sys?style=for-the-badge&logo=github&color=7B2FF7" / target="_blank" rel="noopener noreferrer">
 <a href="https://www.linkedin.com/in/parameswar-chatterjee-556801225/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   </a>
   </p>
 
