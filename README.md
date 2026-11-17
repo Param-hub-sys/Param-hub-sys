@@ -18,11 +18,11 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Param-hub-sys&label=Profile%20Views&color=00C2FF&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Param-hub-sys?style=for-the-badge&logo=github&color=7B2FF7" />
-</p>
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom%20header.svg" width="100%" />
+  </p>
 
-## 👨‍💻 About Me
+
+## 👨‍💻 About Param
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
