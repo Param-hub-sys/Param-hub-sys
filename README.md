@@ -55,7 +55,18 @@ I am a **Data Analyst** passionate about transforming raw data into meaningful i
 ## 🚀 Featured Projects
 
 <table align="center">
-  <tr>
+<tr>
+  <td width="50%" valign="top">
+    <h3>🤖 <a href="https://github.com/Param-hub-sys/AI-Chatbot">AI ChatBot</a></h3>
+    A full-stack AI chatbot built with Flask and the Claude API, featuring streaming replies and SQLite-saved chat history with a sidebar.<br/><br/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  </td>
+</tr>
     <td width="50%" valign="top">
       <h3>👥 <a href="https://github.com/Param-hub-sys/HR-Analytics-Dashboard">HR Analytics Dashboard</a></h3>
       Analyzes employee performance, retention, and workforce trends.<br/><br/>
